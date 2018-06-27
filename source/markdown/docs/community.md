@@ -4,6 +4,7 @@
 
 The Apache Warble project is currently comprised of 4 contributors (and counting):
 
+- Andrew Karetas (PPMC member, committer)
 - Chris Lambertus (PPMC member, committer)
 - Chris Thistlethwaite (PPMC member, committer)
 - Daniel Gruno (PMC member, committer)
